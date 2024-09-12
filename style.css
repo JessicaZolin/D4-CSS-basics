@@ -87,8 +87,8 @@ section {
 
 .image-container img {
     display: inline-block;
-    height: 400px;
-    width: 350px;
+    height: 300px;
+    width: 20%;
     border-radius: 30px;
     object-fit: cover;
     margin: 0px 20px 20px 20px;
